@@ -1,0 +1,15 @@
+numpy
+pandas
+requests
+tqdm
+boto3
+scikit-optimize
+matplotlib
+beautifulsoup4
+bokeh
+holoviews
+openpyxl
+pandas
+panel
+pyaml
+PyYAML
